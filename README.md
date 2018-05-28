@@ -1,4 +1,7 @@
 # silver-spoon
-Hello, I'm James.
 
-In this change, I added a introduction of myself.
+
+Hello, I'm James, a new beginer of JavaScript.
+
+I added a self-introduction at this change.
+
